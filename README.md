@@ -17,7 +17,7 @@ void captureImage()
 }
 
 
-This is an interesting part of code. The following code handle the touch event of the user phot within the frame define in FrameLayout. User can arrange their photo to fit the square frame exactly for the best view. Besides that, user can zoom in/out also to get the best result on their photo.
+This is an interesting part of code. The following code handle the touch event of the user photo within the frame define in FrameLayout. User can arrange their photo to fit the square frame exactly for the best view. Besides that, user can zoom in/out also to get the best result on their photo.
 
 public boolean onTouch(View v, MotionEvent event) {
 }
