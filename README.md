@@ -1,6 +1,7 @@
 # androiddemo
 
 CollageEditorActivity.java
+
 The following function generate UI based on existing user selection for different type of photo frames background. It includes generation of two photo selection area which user can choose to put their own photo into the frame.
 
 void GenerateUI()
